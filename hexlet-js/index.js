@@ -1,3 +1,4 @@
-console.log("Hello, Hexlet!");
-import findTheLastEl from './src/index.js';
-console.log(findTheLastEl(["one", "two"]));
+import { findTheLastEl } from './src/index';
+
+console.log('Hello, Hexlet!');
+console.log(findTheLastEl(['one', 'two']));

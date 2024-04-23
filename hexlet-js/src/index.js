@@ -1,3 +1,4 @@
-import _ from "lodash";
+import _ from 'lodash';
+
 const findTheLastEl = (arr) => (_.last(arr));
 export default findTheLastEl;
